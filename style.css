@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+#picture {
+    width:200px
+    text-align: center;
+        
+}
+#MyInspiration {
+    text-align: center;
+}
+.line {
+   text-align:center;
+    margin: 10px;
+    
+}
+img 
+{
+    transition: transform .2s;
+    
+}
+img:hover {
+    transform:scale(0.9);
+}
